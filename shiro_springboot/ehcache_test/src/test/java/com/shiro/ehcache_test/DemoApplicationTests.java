@@ -11,6 +11,7 @@ class DemoApplicationTests {
         System.out.println("shiro-study:......");
         System.out.println("gitee-shiro-study:......");
         System.out.println("github-shiro-study:......");
+        System.out.println("github-更新");
     }
 
 }
