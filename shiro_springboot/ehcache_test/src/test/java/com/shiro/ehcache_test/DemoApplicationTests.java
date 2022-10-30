@@ -10,6 +10,8 @@ class DemoApplicationTests {
     void contextLoads() {
         System.out.println("shiro-study:......");
         System.out.println("gitee-shiro-study:......");
+        //System.out.println("shiro-study:......");
+        System.out.println("github-shiro-study:......");
     }
 
 }
