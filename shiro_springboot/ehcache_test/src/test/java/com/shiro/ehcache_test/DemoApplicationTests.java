@@ -9,6 +9,7 @@ class DemoApplicationTests {
     @Test
     void contextLoads() {
         //System.out.println("shiro-study:......");
+        System.out.println("github-shiro-study:......");
     }
 
 }
